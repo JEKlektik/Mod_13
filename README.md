@@ -1,7 +1,7 @@
 # Venture Funding with Deep Learning
 
 # Technologies
-![](https://github.com/JEKlektik/Mod_13/blob/6d0e3bc91e8b393771fd2c06305ebde8165af264/Screen%20Shot%202022-05-30%20at%207.27.47%20PM.png))
+![](https://github.com/JEKlektik/Mod_13/blob/6d0e3bc91e8b393771fd2c06305ebde8165af264/Screen%20Shot%202022-05-30%20at%207.27.47%20PM.png)
 
 # Instructions
 - Prepare the data for use on a neural network model.
